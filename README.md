@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 ## Thank you for the visit.
 
 ![](http://profile-counter.glitch.me/OrangecatQAQ/count.svg)
-![](https://komarev.com/ghpvc/?username=OrangecatQAQ)
