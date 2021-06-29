@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangecatQAQ)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangecatQAQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Thank you for the visit.
