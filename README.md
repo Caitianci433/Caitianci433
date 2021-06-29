@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![OrangecatQAQ 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=OrangecatQAQ&show_icons=true&theme=flag-india )
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api ?username=OrangecatQAQ&show_icons=true&theme=flag-india )
 ## Thank you for the visit.
 
 ![](http://profile-counter.glitch.me/OrangecatQAQ/count.svg)
