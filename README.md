@@ -1,12 +1,12 @@
 ### Hi there 👋
 Now I am  working on .NET as a Software Engineer for Schneider Electric base in Shanghai.  
 I love Japanese Anime and Video Games.  
-Favourite Seiyuu·Idol:amita  
-Favourite Virtual YouTuber:minato aqua  
-Favourite Band:Roselia  
-Favourite Video Games:Devil May Cry 5/NieR:Automata/PERSONA 5  
-Favourite Anime:響け！ユーフォニアム  
-Favourite Anime Director:Naoko Yamada  
+Favourite Seiyuu·Idol : amita  
+Favourite Virtual YouTuber : minato aqua  
+Favourite Band : Roselia  
+Favourite Video Games : Devil May Cry 5/NieR:Automata/PERSONA 5  
+Favourite Anime : 響け！ユーフォニアム  
+Favourite Anime Director : Naoko Yamada  
 <!--
 **OrangecatQAQ/OrangecatQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
