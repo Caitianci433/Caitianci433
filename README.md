@@ -2,7 +2,7 @@
 Now I am  working on .NET as a Software Engineer for Schneider Electric base in Shanghai.  
 I love Japanese Anime and Video Games.  
 Favourite Seiyuu·Idol:amita  
-Favourite band:Roselia  
+Favourite Band:Roselia  
 Favourite Video Games:Devil May Cry 5/NieR:Automata/PERSONA 5  
 Favourite Anime:響け！ユーフォニアム  
 Favourite Anime Director:Naoko Yamada  
