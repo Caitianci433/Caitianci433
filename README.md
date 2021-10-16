@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangecatQAQ)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangecatQAQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caitianci433)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caitianci433&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Thank you for the visit.
 
-![](http://profile-counter.glitch.me/OrangecatQAQ/count.svg)
+![](http://profile-counter.glitch.me/Caitianci433/count.svg)
